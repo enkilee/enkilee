@@ -1,2 +1,2 @@
-![](https://github-readme-stats.vercel.app/api?username=enkilee)
-![](https://github-readme-streak-stats.herokuapp.com/?user=enkilee&theme=light&hide_border=false)
+![](https://raw.githubusercontent.com/enkilee/enkilee/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/enkilee/enkilee/output/github-contribution-grid-snake.svg#gh-light-mode-only)
